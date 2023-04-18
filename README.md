@@ -4,5 +4,3 @@
 ### here are the changes
 
 1. how to write shell script
-
- 2.Printing
