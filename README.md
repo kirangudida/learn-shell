@@ -1,3 +1,4 @@
 # learn-shell
 
-### we will lwarn shell scripting topics here
+### we will learn shell scripting topics here
+### here are the changes
